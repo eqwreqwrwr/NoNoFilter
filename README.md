@@ -2,8 +2,6 @@
 
 **NoNoFilter** is a high-performance, local application designed to review and censor profanity in audiobooks, videos, and other media files. By leveraging state-of-the-art AI models, it allows you to automatically detect, review, and "bleep" or mute specific terms while keeping all your data strictly on your own machine.
 
-![Main Window Interface](docs/screenshot.png) *(Note: Add your screenshot here)*
-
 ## Key Features
 
 - **Local & Private**: No audio or transcripts ever leave your computer. All AI analysis is performed locally.
@@ -82,6 +80,3 @@ NoNoFilter is released under the **Creative Commons Attribution-NonCommercial-Sh
 - **Non-Commercial**: You may not use this material for commercial purposes.
 - **Attribution**: You must give appropriate credit to the original author.
 - **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
----
-*Created with care for the audiobook community.*
