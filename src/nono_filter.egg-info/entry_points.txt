@@ -1,0 +1,2 @@
+[console_scripts]
+nono-filter = nono_filter.main:main

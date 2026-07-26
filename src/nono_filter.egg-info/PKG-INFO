@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: nono-filter
+Version: 0.1.0
+Summary: Offline audiobook profanity review and censoring tool
+Requires-Python: >=3.11
+Requires-Dist: numpy>=1.26
+Requires-Dist: soundfile>=0.12
+Requires-Dist: rapidfuzz>=3.0
+Requires-Dist: PySide6>=6.6
+Requires-Dist: faster-whisper>=1.0

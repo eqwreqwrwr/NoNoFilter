@@ -1,0 +1,9 @@
+- [x] Final Repository Polish
+    - [x] Update `pyproject.toml` with all dependencies and metadata
+    - [x] Add versioning to `src/nono_filter/__init__.py`
+    - [x] Refine `README.md` with troubleshooting and pro-tips
+    - [x] Create `docs/` directory for assets
+    - [x] Polish `install_cuda_support.py` logging
+- [x] Verification
+    - [x] Confirm `pyproject.toml` dependencies match `requirements.txt`
+    - [x] Review final project structure

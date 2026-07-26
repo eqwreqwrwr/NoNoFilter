@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# NoNoFilter AppData/Project files (User local data)
+NoNoFilter/
+*.nono.transcript.json
+*.nono.review.json
+*.nono-project.json
+*.tmp
+*.bak*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo

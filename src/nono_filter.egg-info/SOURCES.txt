@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/nono_filter/__init__.py
+src/nono_filter/asr.py
+src/nono_filter/audio.py
+src/nono_filter/gui.py
+src/nono_filter/main.py
+src/nono_filter/matching.py
+src/nono_filter/models.py
+src/nono_filter/subtitles.py
+src/nono_filter.egg-info/PKG-INFO
+src/nono_filter.egg-info/SOURCES.txt
+src/nono_filter.egg-info/dependency_links.txt
+src/nono_filter.egg-info/entry_points.txt
+src/nono_filter.egg-info/requires.txt
+src/nono_filter.egg-info/top_level.txt
+tests/test_matching.py
